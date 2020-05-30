@@ -10132,6 +10132,7 @@ h3 {
   }
 }
 .masthead {
+  background:url('../assets/img/portfolio/cover.jpeg') no-repeat center top #FFF
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
